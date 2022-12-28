@@ -1,8 +1,8 @@
 /**
  * @file index.js
  * @description This is the main file for the bot, it's where we initialize the bot and load all of the commands and events.
- * @author <name>
- * @license <license>
+ * @author <name> (blank for you)
+ * @license <license> (blank for you)
  * @version 1.0.0
  * 
  * @requires dotenv
