@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-v14-template",
+  "version": "1.0.0",
+  "description": "A Discord.JS V14 template with comments for those who don't understand anything in particular",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x7CD6/discord.js-template.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "0x7CD6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x7CD6/discord.js-template/issues"
+  },
+  "homepage": "https://github.com/0x7CD6/discord.js-template#readme"
+}
