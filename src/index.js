@@ -7,7 +7,6 @@
  * 
  * @requires dotenv
  * @requires discord.js
- * @requires openai
  * @requires fs
  * @requires colors
  * 
